@@ -1,0 +1,75 @@
+:root {
+  /* font-size  */
+  --fs-head: 70px;
+  --fs-xxl: 49px;
+  --fs-xl: 39px;
+  --fs-lg: 35px;
+  --fs-cmn: 30px;
+  --fs-md: 29px;
+  --fs-sm: 25px;
+  --fs-xsm: 22px;
+  --fs-1xsm: 20px;
+  --fs-1sm: 18px;
+  --fs-2sm: 16px;
+  /* font-weight  */
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-bold: 600;
+
+  /*  color */
+  --clr-1: #ffffff;
+  --clr-2: #0d0d0d;
+}
+
+.fs-head {
+  font-size: var(--fs-head);
+}
+.fs-xxl {
+  font-size: var(--fs-xxl);
+}
+.fs-xl {
+  font-size: var(--fs-xl);
+}
+.fs-lg {
+  font-size: var(--fs-lg);
+}
+.fs-cmn {
+  font-size: var(--fs-cmn);
+}
+.fs-md {
+  font-size: var(--fs-md);
+}
+.fs-sm {
+  font-size: var(--fs-sm);
+}
+.fs-xsm {
+  font-size: var(--fs-xsm);
+}
+.fs-1xsm {
+  font-size: var(--fs-1sm);
+}
+.fs-1sm {
+  font-size: var(--fs-1sm);
+}
+.fs-2sm {
+  font-size: var(--fs-2sm);
+}
+
+/* f-w */
+
+.fw-regular {
+  font-weight: var(--fw-regular);
+}
+.fw-medium {
+  font-weight: var(--fw-medium);
+}
+.fw-bold {
+  font-weight: var(--fw-bold);
+}
+/* color */
+.clr-1 {
+  color: var(--clr-1);
+}
+.clr-2 {
+  background-color: var(--clr-2);
+}
