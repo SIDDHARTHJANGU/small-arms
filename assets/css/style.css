@@ -14,6 +14,10 @@
 .font_agnotic {
   font-family: "Agnostic";
 }
+.connect_button {
+  padding: 14px 20px;
+  background-color: white;
+}
 
 @media (max-width: 992px) {
   .mobile_view {
