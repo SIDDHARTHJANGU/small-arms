@@ -1,2 +1,56 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  box-sizing: border-box;
+  text-decoration: none !important;
+}
+@font-face {
+  font-family: "Agnostic";
+  src: url("../agnostic/Agnostic.otf");
+}
+.font_agnotic {
+  font-family: "Agnostic";
+}
+
+@media (max-width: 992px) {
+  .mobile_view {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 100%;
+    height: 100% !important;
+    background-color: transparent;
+    backdrop-filter: blur(15px) !important;
+    transition: 400ms linear;
+    z-index: 40;
+  }
+  .overflow_hidden {
+    overflow: hidden;
+  }
+  .line1,
+  .line2,
+  .line3 {
+    width: 40px !important;
+    min-height: 4px !important;
+    background-color: #fff !important;
+    transition: 300ms linear !important;
+  }
+  .cross .line1 {
+    transform: rotate(50deg) translate(17px, 16px) !important;
+  }
+  .cross .line2 {
+    transform: translateX(-50%) !important;
+    opacity: 0;
+  }
+  .cross .line3 {
+    transform: rotate(-50deg) translateY(-50%) !important;
+  }
+  .white_box {
+    background-color: white;
+    border-radius: 27px;
+    box-shadow: 15.34152px 15.34152px 4.38329px 0px rgba(0, 0, 0, 0.25) !important;
+  }
+}
