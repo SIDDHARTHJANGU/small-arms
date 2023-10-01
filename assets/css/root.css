@@ -1,15 +1,15 @@
 :root {
   /* font-size  */
-  --fs-head: 70px;
-  --fs-xxl: 49px;
-  --fs-xl: 39px;
+  --fs-head: 40px;
+  --fs-xxl: 45px;
+  --fs-xl: 29px;
   --fs-lg: 35px;
   --fs-cmn: 30px;
   --fs-md: 29px;
   --fs-sm: 25px;
-  --fs-xsm: 22px;
+  --fs-xsm: 13px;
   --fs-1xsm: 20px;
-  --fs-1sm: 18px;
+  --fs-1sm: 14px;
   --fs-2sm: 16px;
   /* font-weight  */
   --fw-regular: 400;
@@ -20,6 +20,7 @@
   --clr-1: #ffffff;
   --clr-2: #0d0d0d;
 }
+
 
 .fs-head {
   font-size: var(--fs-head);
@@ -72,4 +73,45 @@
 }
 .clr-2 {
   background-color: var(--clr-2);
+}
+@media (min-width: 576px) {
+  :root {
+    /* font-size  */
+    --fs-head: 50px;
+    --fs-xxl: 39px;
+    --fs-xl: 36px;
+    --fs-lg: 35px;
+    --fs-cmn: 30px;
+    --fs-md: 29px;
+    --fs-sm: 25px;
+    --fs-xsm: 20px;
+    --fs-1xsm: 20px;
+    --fs-1sm: 16px;
+    --fs-2sm: 16px;
+  }
+}
+@media (min-width: 768px) {
+  :root {
+    /* font-size  */
+    --fs-head: 70px;
+    --fs-xxl: 49px;
+    --fs-xl: 39px;
+    --fs-lg: 35px;
+    --fs-cmn: 30px;
+    --fs-md: 29px;
+    --fs-sm: 25px;
+    --fs-xsm: 22px;
+    --fs-1xsm: 20px;
+    --fs-1sm: 18px;
+    --fs-2sm: 16px;
+  }
+}
+}
+@media (min-width: 992px) {
+}
+@media (min-width: 1024px) {
+}
+@media (min-width: 1368px) {
+}
+@media (min-width: 1440px) {
 }
