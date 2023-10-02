@@ -21,7 +21,6 @@
   --clr-2: #0d0d0d;
 }
 
-
 .fs-head {
   font-size: var(--fs-head);
 }
@@ -105,7 +104,6 @@
     --fs-1sm: 18px;
     --fs-2sm: 16px;
   }
-}
 }
 @media (min-width: 992px) {
 }
