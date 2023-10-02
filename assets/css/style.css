@@ -50,9 +50,7 @@ ul {
   margin-top: 0;
   margin-bottom: 0 !important;
 }
-p {
-  margin-bottom: ;
-}
+
 .hero_1 {
   bottom: 0;
   left: 12%;
@@ -91,7 +89,7 @@ p {
 .logo {
   mix-blend-mode: lighten !important;
 }
-/* .ellips {
+.ellips {
   width: 334px;
   height: 334px;
   transform: rotate(-69.584deg);
@@ -118,8 +116,8 @@ p {
   right: 0 !important;
 }
 .circle_1 {
-  bottom: -10% !important;
-  right: 0;
+  bottom: -9% !important;
+  right: -6%;
 }
 .ellips_2 {
   width: 334px;
@@ -134,8 +132,116 @@ p {
 }
 .circle_2 {
   bottom: 45% !important;
-  left: 0;
-} */
+  left: -5%;
+}
+.ellips_3 {
+  width: 334px;
+  height: 334px;
+  transform: rotate(-69.584deg);
+  flex-shrink: 0;
+  border-radius: 334px;
+  background: #781d00;
+  filter: blur(250px);
+  bottom: 0;
+  right: 0 !important;
+  z-index: 50;
+}
+.circle_3 {
+  bottom: -17%;
+  right: -5%;
+}
+.ellips_4 {
+  width: 334px;
+  height: 334px;
+  transform: rotate(-69.584deg);
+  flex-shrink: 0;
+  border-radius: 334px;
+  background: #781d00;
+  filter: blur(250px);
+  bottom: -19%;
+  right: 0 !important;
+  z-index: 50;
+}
+.circle_4 {
+  bottom: -17%;
+  right: -5%;
+}
+.ellips_5 {
+  width: 334px;
+  height: 334px;
+  transform: rotate(-69.584deg);
+  flex-shrink: 0;
+  border-radius: 334px;
+  background: #781d00;
+  filter: blur(250px);
+  top: 30%;
+  left: -4% !important;
+  z-index: 50;
+}
+.circle_5 {
+  top: 35%;
+  left: -5%;
+}
+.ellips_6 {
+  width: 334px;
+  height: 334px;
+  transform: rotate(-69.584deg);
+  flex-shrink: 0;
+  border-radius: 334px;
+  background: #781d00;
+  filter: blur(250px);
+  bottom: 0;
+  right: -4% !important;
+  z-index: 50;
+}
+.circle_6 {
+  bottom: 0;
+  right: -5%;
+}
+.ellips_7 {
+  width: 334px;
+  height: 334px;
+  transform: rotate(-69.584deg);
+  flex-shrink: 0;
+  border-radius: 334px;
+  background: #781d00;
+  filter: blur(250px);
+  top: 8%;
+  left: -4% !important;
+  z-index: 50;
+}
+.circle_7 {
+  top: 8%;
+  left: -6%;
+}
+.ellips_8 {
+  width: 334px;
+  height: 334px;
+  transform: rotate(-69.584deg);
+  flex-shrink: 0;
+  border-radius: 334px;
+  background: #781d00;
+  filter: blur(250px);
+  bottom: 0;
+  right: -4% !important;
+  z-index: 50;
+}
+.circle_8 {
+  bottom: -8%;
+  right: -5%;
+}
+.ellips_9 {
+  width: 334px;
+  height: 334px;
+  transform: rotate(-69.584deg);
+  flex-shrink: 0;
+  border-radius: 334px;
+  background: #781d00;
+  filter: blur(250px);
+  bottom: 0;
+  left: -4% !important;
+  z-index: 50;
+}
 .line-3::after {
   position: absolute;
   content: "";
@@ -700,9 +806,9 @@ a:hover svg {
 
 @media (min-width: 768px) {
   .pos_playbtn {
-    bottom: -20%;
+    bottom: -8%;
     position: absolute;
-    left: -13%;
+    left: -8%;
   }
 
   .playbtn {
@@ -753,9 +859,9 @@ a:hover svg {
 
 @media (min-width: 992px) {
   .pos_playbtn {
-    bottom: -13%;
+    bottom: -11%;
     position: absolute;
-    left: -13%;
+    left: -10%;
   }
 
   .pb91 {
