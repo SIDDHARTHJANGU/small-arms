@@ -141,3 +141,519 @@
 }
 @media (min-width: 1440px) {
 }
+
+
+<div class="row justify-content-center pt-lg-4">
+<div class="col-12 col-md-6 col-lg-4" data-aos="fade-down-right">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card1-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">11.88%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mt-5 my-md-0 " data-aos="fade-down">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card2-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">2.93%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mt-5 mt-lg-0" data-aos="fade-down-left">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card3-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">3.00%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mt-5  " data-aos="fade-up-right">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card4-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear ">3.05%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mt-5 " data-aos="fade-up">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card5-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">3.00%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-lg-4  mt-5 " data-aos="fade-up-left">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card6-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">3.03%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
+<div class="py-5 ">
+<div class="row justify-content-center">
+<div class="col-12 col-md-6 col-xl-4">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card1-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">11.88%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-xl-4  my-5 my-md-0 ">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card2-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">3.00%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-xl-4 mt-md-4 mt-xl-0">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card3-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">3.00%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row pt-5 justify-content-center">
+<div class="col-12 col-md-6 col-xl-4">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card4-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">11.88%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-xl-4  my-5 my-md-0">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card5-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">3.00%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+</div>
+<div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
+<div class="py-5 ">
+<div class="row justify-content-center">
+<div class="col-12 col-md-6 col-xl-4">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card1-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">11.88%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-xl-4 my-5 my-md-0  ">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card2-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">3.00%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-xl-4   mt-md-4 mt-xl-0">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card3-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">3.00%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+</div>
+<div class="tab-pane fade" id="pills-4" role="tabpanel" aria-labelledby="pills-4-tab">
+<div class="py-5 ">
+<div class="row justify-content-center">
+<div class="col-12 col-md-6 col-xl-4">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card1-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">11.88%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-xl-4 my-5 my-xl-0  ">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card2-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">3.00%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-xl-4  mt-4 mt-xxl-0">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card3-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">3.00%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row pt-5 justify-content-center">
+<div class="col-12 col-md-6 col-xl-4">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card4-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">11.88%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-xl-4 my-5 my-md-0  ">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card5-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">3.00%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-xl-4 mt-md-4 mt-xl-0">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card6-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">3.00%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+</div>
+<div class="tab-pane fade" id="pills-5" role="tabpanel" aria-labelledby="pills-5-tab">
+<div class="py-5 ">
+<div class="row justify-content-center">
+<div class="col-12 col-md-6 col-xl-4">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card1-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">11.88%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-xl-4 my-5 my-md-0  ">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card2-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">3.00%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-xl-4  mt-md-4 mt-xl-0">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card3-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">3.00%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row pt-5 justify-content-center">
+<div class="col-12 col-md-6 col-xl-4">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card4-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">11.88%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-xl-4 my-5 my-md-0 ">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card5-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">3.00%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+</div>
+<div class="tab-pane fade" id="pills-6" role="tabpanel" aria-labelledby="pills-6-tab">
+<div class="py-5 ">
+<div class="row justify-content-center">
+<div class="col-12 col-md-6 col-xl-4">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card1-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">11.88%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-xl-4 my-5 my-md-0 ">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card2-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">3.00%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-xl-4  mt-md-4 mt-xl-0">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card3-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">3.00%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+</div>
+<div class="tab-pane fade" id="pills-7" role="tabpanel" aria-labelledby="pills-7-tab">
+<div class="py-5 ">
+<div class="row justify-content-between">
+<div class="col-12 col-md-6 col-xl-4">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card1-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">11.88%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-xl-4 my-5 my-md-0 ">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card2-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">3.00%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-md-6 col-xl-4 mt-md-4 mt-xl-0">
+    <div class="box-s5">
+        <img width="100%" src="./assets/image/png/s5-card3-pic.png" alt="">
+        <h1 class="font_poppins text-white fs-1xsm fw-medium m-0 py-4">Background
+            (Light Green)</h1>
+        <p class="font_poppins fw-bold fs-cmn text-white mb-0">Rarity:</p>
+        <div class="d-flex justify-content-between align-items-center">
+            <p class="font_poppins fw-bold fs-cmn  mb-0 percent-linear">3.00%</p>
+            <div>
+                <button class="buy-btn fw-regular fs-1xsm font_agnotic text-white">Buy
+                    Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text-center  pt-lg-5 mt-lg-3 pb-lg-5">
