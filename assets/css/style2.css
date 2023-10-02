@@ -34,11 +34,9 @@
   width: 80%;
   border-radius: 14.992px;
   border: 1.089px solid #ff5001;
-  background: linear-gradient(
-    124deg,
-    rgba(255, 255, 255, 0.1) 0%,
-    rgba(255, 255, 255, 0.03) 101.73%
-  );
+  background: linear-gradient(124deg,
+      rgba(255, 255, 255, 0.1) 0%,
+      rgba(255, 255, 255, 0.03) 101.73%);
   backdrop-filter: blur(27.21642303466797px);
 }
 
@@ -63,11 +61,9 @@
 .box1 {
   border-radius: 17.34px;
   border: 1.259px solid #ff5001;
-  background: linear-gradient(
-    124deg,
-    rgba(255, 255, 255, 0.1) 0%,
-    rgba(255, 255, 255, 0.03) 101.73%
-  );
+  background: linear-gradient(124deg,
+      rgba(255, 255, 255, 0.1) 0%,
+      rgba(255, 255, 255, 0.03) 101.73%);
   backdrop-filter: blur(31.478700637817383px);
 }
 
@@ -244,9 +240,9 @@ a:hover svg {
 
 @media (min-width: 768px) {
   .pos_playbtn {
-    bottom: -20%;
+    bottom: -7%;
     position: absolute;
-    left: -13%;
+    left: -7%;
   }
 
   .playbtn {
