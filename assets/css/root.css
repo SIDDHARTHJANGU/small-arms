@@ -130,7 +130,7 @@
     --fs-lg: 35px;
     --fs-cmn: 30px;
     --fs-md: 29px;
-    --fs-sm: 25px;
+    --fs-sm: 24px;
     --fs-xsm: 22px;
     --fs-1xsm: 20px;
     --fs-1sm: 15px;
@@ -138,6 +138,20 @@
   }
 }
 @media (min-width: 1368px) {
+  :root {
+    /* font-size  */
+    --fs-head: 70px;
+    --fs-xxl: 49px;
+    --fs-xl: 39px;
+    --fs-lg: 35px;
+    --fs-cmn: 30px;
+    --fs-md: 29px;
+    --fs-sm: 25px;
+    --fs-xsm: 22px;
+    --fs-1xsm: 20px;
+    --fs-1sm: 18px;
+    --fs-2sm: 16px;
+  }
 }
 @media (min-width: 1440px) {
 }
