@@ -252,7 +252,7 @@ ul {
   right: 50%;
   display: block;
   background-color: #fff;
-  transition: all 600ms linear !important;
+  transition: all 450ms linear !important;
 }
 .line-3:hover::after {
   width: 100%;
@@ -274,6 +274,7 @@ ul {
   background-color: #000;
   position: fixed;
   z-index: 700 !important;
+  overflow: hidden !important;
 }
 .w_20 {
   width: 17%;
