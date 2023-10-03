@@ -3,7 +3,6 @@
 * {
   margin: 0;
   padding: 0;
-
   box-sizing: border-box;
   text-decoration: none !important;
 }
@@ -676,16 +675,14 @@ ul {
 }
 /* parhlad */
 .bg_img {
-  background-image: url(../image/png/bg_img.png);
+  background-image: url("../image/png/bg_img.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-
 .card1 {
   width: 90%;
-  border-radius: 14.992px;
-  border: 1.089px solid #ff5001;
+  border-radius: 20px;
   background: linear-gradient(
     124deg,
     rgba(255, 255, 255, 0.1) 0%,
@@ -695,33 +692,38 @@ ul {
   padding-left: 10px;
   padding-right: 10px;
 }
-
+.card1::after {
+  content: "";
+  position: absolute;
+  border-radius: 20px;
+  padding: 1.259px;
+  background: linear-gradient(#ff5001 6%, #fed710 108%);
+  inset: 0;
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  pointer-events: none;
+}
 .box_postion {
   position: absolute;
   right: -3%;
   bottom: -4%;
   z-index: 1;
 }
-
 .box_postion1 {
   position: absolute;
   left: -3%;
   bottom: -4%;
   z-index: 1;
 }
-
 .m-left {
   margin-left: 34px;
 }
-
 .line-h-150 {
   line-height: 150%;
   font-style: normal;
 }
-
 .box1 {
   border-radius: 17.34px;
-  border: 1.259px solid #ff5001;
   background: linear-gradient(
     124deg,
     rgba(255, 255, 255, 0.1) 0%,
@@ -729,14 +731,23 @@ ul {
   );
   backdrop-filter: blur(31.478700637817383px);
 }
-
+.box1::after {
+  content: "";
+  position: absolute;
+  border-radius: 20px;
+  padding: 1.259px;
+  background: linear-gradient(#ff5001 6%, #fed710 108%);
+  inset: 0;
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  pointer-events: none;
+}
 .playbtn {
   height: 105px;
   width: 105px;
   border-radius: 140px;
   background: rgba(255, 80, 1, 0.3);
 }
-
 .playbtn1 {
   height: 65px;
   width: 65px;
@@ -744,7 +755,6 @@ ul {
   border-radius: 100px;
   background: #ff5001;
 }
-
 .playbtn2 {
   width: 40px;
   height: 40px;
@@ -752,68 +762,55 @@ ul {
   border-radius: 75px;
   background: #fed710;
 }
-
 .pos_playbtn {
   bottom: -12%;
   position: absolute;
   left: 39%;
 }
-
 .curser_pointer {
   cursor: pointer;
 }
-
 .footer_img_right {
   right: 0;
   position: absolute;
   bottom: 0;
 }
-
 .footer_img_left {
   left: 0;
   position: absolute;
   bottom: 0;
 }
-
 .footer_line {
   width: 100%;
   height: 1px;
   background-color: #1b1919;
   z-index: -2;
 }
-
 .width1 {
   width: 406px;
 }
-
 .width2 {
   width: 100px;
 }
-
 .width_2 {
   width: 100px;
 }
-
 .pt55 {
   padding-top: 23px;
 }
-
 .pb91 {
   padding-bottom: 69px;
 }
-
 .icon-hover {
   border-radius: 50%;
   transition: all 0.3s ease-in-out;
 }
-
 .gradent {
   background: linear-gradient(180deg, #fed710 0%, #ff5001 100%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-
 .crl_right1 {
   position: absolute;
   border-radius: 334px;
@@ -824,7 +821,6 @@ ul {
   right: -9%;
   bottom: -20%;
 }
-
 .crl_right2 {
   width: 127.463px;
   height: 127.463px;
@@ -832,7 +828,6 @@ ul {
   border-radius: 127.463px;
   border: 1px dashed #ffae01;
 }
-
 .crl_right3 {
   width: 96.415px;
   height: 96.415px;
@@ -841,12 +836,10 @@ ul {
   border-radius: 96.415px;
   border: 1px dashed #ffae01;
 }
-
 a:hover svg {
   box-shadow: 0px 0px 15px 1px gold;
   border-radius: 50px;
 }
-
 @media (min-width: 576px) {
   .playbtn {
     height: 115px;
@@ -854,7 +847,6 @@ a:hover svg {
     border-radius: 140px;
     background: rgba(255, 80, 1, 0.3);
   }
-
   .playbtn1 {
     height: 75px;
     width: 75px;
@@ -862,7 +854,6 @@ a:hover svg {
     border-radius: 100px;
     background: #ff5001;
   }
-
   .playbtn2 {
     width: 50px;
     height: 50px;
@@ -870,34 +861,28 @@ a:hover svg {
     border-radius: 75px;
     background: #fed710;
   }
-
   .box_postion {
     position: absolute;
     right: -22px;
     bottom: -3%;
     z-index: 1;
   }
-
   .box_postion1 {
     position: absolute;
     left: 0px;
     bottom: -25px;
     z-index: 1;
   }
-
   .width1 {
     width: 180px;
   }
-
   .width2 {
     width: 133px;
   }
-
   .width_2 {
     width: 152px;
   }
 }
-
 @media (min-width: 768px) {
   .pos_playbtn {
     bottom: -8%;
@@ -1057,6 +1042,6 @@ a:hover svg {
     width: 294px;
   }
   .width_2 {
-    width: 374px;
+    width: 355px;
   }
 }
