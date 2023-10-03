@@ -263,7 +263,7 @@ ul {
 }
 ol,
 ul {
-  padding-left: 1rem !important;
+  padding-left: 0 !important;
 }
 #preloader-box {
   min-height: 100vh;
