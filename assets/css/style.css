@@ -361,11 +361,11 @@ ul {
 .Explore_button:hover {
   opacity: 0.75;
 }
-.shadow-h:hover .dark-shadow {
+.shadow-h .dark-shadow {
   border-radius: 17.393px;
   display: block;
 }
-.shadow-h:hover .ceo-text {
+.shadow-h .ceo-text {
   border-radius: 17.393px;
   display: block;
 }
@@ -420,6 +420,10 @@ ul {
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
+.scroll_btn::-webkit-scrollbar {
+  /* display: none; */
+  background-color: transparent;
+}
 .nav-pills .nav-link {
   border-radius: 100px !important;
 }
@@ -445,9 +449,6 @@ ul {
   transition: all 400ms;
   box-shadow: 0 0 9px #ffae01;
   cursor: pointer;
-}
-.box-s5:hover {
-  scale: 1.1;
 }
 .box-s5::after {
   content: "";
