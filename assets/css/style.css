@@ -55,12 +55,12 @@ ul {
 .hero_1 {
   bottom: 0;
   left: 12%;
-  width: 23%;
+  width: 25%;
 }
 .hero_2 {
   bottom: 0;
   left: 32%;
-  width: 20%;
+  width: 22%;
 }
 .hero_3 {
   bottom: 0;
@@ -70,7 +70,7 @@ ul {
 .hero_4 {
   bottom: 0;
   right: 10%;
-  width: 23%;
+  width: 25%;
 }
 .txt_small {
   background: linear-gradient(180deg, #fed710 -100%, #ff5001 100%);
@@ -422,8 +422,7 @@ ul {
   -webkit-background-clip: text;
 }
 .scroll_btn::-webkit-scrollbar {
-  /* display: none; */
-  background-color: transparent;
+  display: none;
 }
 .nav-pills .nav-link {
   border-radius: 100px !important;
@@ -642,6 +641,7 @@ ul {
   border-radius: 96.415px;
   border: 1px dashed #ffae01;
 }
+
 a:hover svg {
   box-shadow: 0px 0px 15px 1px gold;
   border-radius: 50px;
